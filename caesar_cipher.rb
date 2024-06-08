@@ -14,5 +14,3 @@ def caesar_cipher(string, number)
   end
   ciphered_arr.join('')
 end
-
-p caesar_cipher('What a string!', 5) # "Bmfy f xywnsl!"
